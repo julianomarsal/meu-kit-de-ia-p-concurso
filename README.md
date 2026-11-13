@@ -58,6 +58,7 @@ A tarefa que eu escolhi foi o gerenciamento de cronograma de estudos com foco em
 
 ### Meus Atalhos
 **ATALHO 1**
+
 CONTEXTO
 Estou interessado na área de concursos públicos mas quero aproveitar minhas experiências de TI
 INSTRUÇÃO
@@ -70,6 +71,7 @@ Quero em formato de tabela
 Usei de maneira adptada o Template: O Segredo de um Bom Pedido à IA para pesquisar de maneira mais efetiva o rool de concursos públicos que poderia me interessar, a premissa é sólida e simples bastando apenas alterar as informações chaves para um bom resultado, criando uma boa base para acrescentar informações subsequentes até conseguir um resultado satisfatário 
 
 **ATALHO 2**
+
 Quero comparar o Concurso Banestes, Câmara de Cristalina e TRF-3.
 
 Meu objetivo é escolher qual seria o melhor para a minha situação atual
