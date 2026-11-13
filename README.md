@@ -68,7 +68,7 @@ Para uma possível preparação
 FORMATO
 Quero em formato de tabela
 
-Usei de maneira adptada o Template: O Segredo de um Bom Pedido à IA para pesquisar de maneira mais efetiva o rool de concursos públicos que poderia me interessar, a premissa é sólida e simples bastando apenas alterar as informações chaves para um bom resultado, criando uma boa base para acrescentar informações subsequentes até conseguir um resultado satisfatário 
+Usei de maneira adptada o Template: O Segredo de um Bom Pedido à IA para pesquisar de maneira mais efetiva o rol de concursos públicos que poderia me interessar, a premissa é sólida e simples bastando apenas alterar as informações chaves para um bom resultado, criando uma boa base para acrescentar informações subsequentes até conseguir um resultado satisfatário 
 
 **ATALHO 2**
 
@@ -83,7 +83,7 @@ Use estes critérios:
 4. Tempo de preparação, quanto mais tempo de preparação melhor
 Não tome a decisão por mim. Mostre o raciocínio e os dados para que eu possa decidir.
 
-Após fazer a pesquisa o próximo passo era decidir qual concurso concurso era o melhor para mim, então usei de maneira adaptada o "Prompt: Comparar Alternativas para Decidir Melhor" oque me gerou um resultado muito satisfatório, com o chat apenas trazendo fatos importante para mim e não tomando a decisão de qual concurso seria o melhor.
+Após fazer a pesquisa o próximo passo era decidir qual concurso era o melhor para mim, então usei de maneira adaptada o "Prompt: Comparar Alternativas para Decidir Melhor" oque me gerou um resultado muito satisfatório, com o chat apenas trazendo fatos importante para mim e não tomando a decisão de qual concurso seria o melhor.
 
 ### Minha Delegação
 
@@ -97,7 +97,7 @@ Antes da IA começar precisei alimentar ela com a grade curricular completa das 
 ### O Resultado
 <img width="1441" height="771" alt="image" src="https://github.com/user-attachments/assets/96fb2b06-3010-45eb-8fd5-d22bc8eee6c9" />
 <img width="1296" height="732" alt="image" src="https://github.com/user-attachments/assets/592d88e4-f7d4-4870-b8ff-9c58f8373e98" />
-Pedi para o chat me entregar o cronograma anteciapdamente e também em formato docx para conferência
+Pedi para o chat me entregar o cronograma antecipadamente e também em formato docx para conferência.
 
 ### Como Foi para Você
 Com esse método consigo otimizar muito do meu tempo que era gasto apenas em decidir oque, como e quanto tempo estudar.
